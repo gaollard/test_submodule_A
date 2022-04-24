@@ -1,4 +1,3 @@
 [submodule "projectB"]
 	path = projectB
 	url = git@github.com:gaollard/test_submodule_B.git
-	ignore = all
